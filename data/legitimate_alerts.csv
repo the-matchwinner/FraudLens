@@ -1,0 +1,51 @@
+transaction_id,scenario,is_fraud,amount,amount_vs_median,new_city,new_merchant_category,transactions_previous_10m,is_unusual_hour,risk_score,status,evidence
+T003266,legitimate_unusual,0,18000.0,63.1578947368421,0,1,0,0,30,review_recommended,amount_deviation | new_merchant_category
+T003272,legitimate_unusual,0,18000.0,7.814195789016714,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003278,legitimate_unusual,0,18000.0,7.307226237813678,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003233,legitimate_unusual,0,18000.0,11.083675593130584,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003239,legitimate_unusual,0,18000.0,19.36212553111386,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003243,legitimate_unusual,0,18000.0,12.841961823701268,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003251,legitimate_unusual,0,18000.0,11.022050223808852,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003281,legitimate_unusual,0,18000.0,9.491268033409263,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003279,legitimate_unusual,0,18000.0,63.759696787219724,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003253,legitimate_unusual,0,18000.0,48.29362524146812,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003252,legitimate_unusual,0,18000.0,11.763629471813037,0,1,0,0,30,review_recommended,amount_deviation | new_merchant_category
+T003250,legitimate_unusual,0,18000.0,11.357470060446978,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003249,legitimate_unusual,0,18000.0,27.204509903197287,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003248,legitimate_unusual,0,18000.0,6.572101429432061,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003247,legitimate_unusual,0,18000.0,57.903879559930516,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003246,legitimate_unusual,0,18000.0,32.92482165721602,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003244,legitimate_unusual,0,18000.0,19.99833347221065,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003254,legitimate_unusual,0,18000.0,7.279168233709829,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003242,legitimate_unusual,0,18000.0,13.555952192675267,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003241,legitimate_unusual,0,18000.0,8.11935451131635,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003240,legitimate_unusual,0,18000.0,61.16000135911114,0,1,0,0,30,review_recommended,amount_deviation | new_merchant_category
+T003238,legitimate_unusual,0,18000.0,24.972253052164262,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003237,legitimate_unusual,0,18000.0,7.08680947900139,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003236,legitimate_unusual,0,18000.0,21.389484691664634,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003235,legitimate_unusual,0,18000.0,67.77874006853185,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003234,legitimate_unusual,0,18000.0,58.49473547380735,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003245,legitimate_unusual,0,18000.0,62.17616580310881,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003255,legitimate_unusual,0,18000.0,65.02068018855996,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003268,legitimate_unusual,0,18000.0,50.88195386702849,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003257,legitimate_unusual,0,18000.0,52.21629148294267,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003256,legitimate_unusual,0,18000.0,31.583934305416648,0,1,0,0,30,review_recommended,amount_deviation | new_merchant_category
+T003277,legitimate_unusual,0,18000.0,6.929046563192904,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003276,legitimate_unusual,0,18000.0,16.258840744654908,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003275,legitimate_unusual,0,18000.0,63.00976651380965,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003274,legitimate_unusual,0,18000.0,30.771860842807076,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003273,legitimate_unusual,0,18000.0,57.95701521371649,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003271,legitimate_unusual,0,18000.0,30.821390044691015,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003270,legitimate_unusual,0,18000.0,13.522040926710538,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003280,legitimate_unusual,0,18000.0,64.99485457401288,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003269,legitimate_unusual,0,18000.0,6.328090393255661,1,1,0,0,30,review_recommended,amount_deviation | new_city | new_merchant_category
+T003267,legitimate_unusual,0,18000.0,6.784311656201237,0,1,0,0,20,low_risk,amount_deviation | new_merchant_category
+T003265,legitimate_unusual,0,18000.0,67.0490948372197,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003264,legitimate_unusual,0,18000.0,20.14312811589013,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003263,legitimate_unusual,0,18000.0,11.651314980354588,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003262,legitimate_unusual,0,18000.0,53.40374716292593,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003261,legitimate_unusual,0,18000.0,12.212000325653342,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003260,legitimate_unusual,0,18000.0,12.095189138520155,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003259,legitimate_unusual,0,18000.0,11.170896092048185,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003258,legitimate_unusual,0,18000.0,21.472282861539565,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
+T003232,legitimate_unusual,0,18000.0,20.532358426536934,1,1,0,0,40,review_recommended,amount_deviation | new_city | new_merchant_category
